@@ -1,4 +1,5 @@
-# ping.win
+# ping.win 
+<img width="60" height="36" alt="image" src="https://github.com/user-attachments/assets/b2612f65-f80d-4645-a79e-906a123f9565" />
 
 Um monitor de latência (ping) leve e robusto para Windows, que vive na system tray.
 
