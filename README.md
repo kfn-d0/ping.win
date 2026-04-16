@@ -16,7 +16,7 @@ Totalmente desenvolvido sob uma arquitetura _lock-free_ de alto nível em C++, n
 
 1. Baixe o executável portatil `ping.win.exe`. O arquivo possuí dependências e componentes já linkados dinamicamente (~280kb).
 2. Execute, e na barra de ferramentas inferior você verá a sigla do seu ping (`Ping: XX`).
-    - **Cores Adaptativas**: Vai ficar **Verde** em baixo ping, amarelo-mesclado sob moderado e **Vermelho** durante latências agudas ou `X` sob total pacote perdido.
+    - **Cores Adaptativas**: Vai ficar **Verde** em baixo ping, amarelo-mesclado sob moderado e **Vermelho** durante latências agudas ou `X` sob perda de pacote.
 3. Clique com seu **botão direito** sobre o pequeno programa. Acesse **Change Host**.
 4. Escreva qual destino testar. Funciona com DNS e com IPs absolutos (`google.com`, `192.168.0.1`, `1.1.1.1`).
 5. Caso necessite fechá-lo de forma imediata (e liberar com segurança a memória Cache criada), simplesmente clique no menu contexto **Exit**.
