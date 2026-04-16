@@ -4,7 +4,6 @@
 #include <windows.h>
 #include <iphlpapi.h>
 #include <icmpapi.h>
-#include <iostream>
 #include <string>
 #include <chrono>
 #include <thread>
